@@ -126,7 +126,7 @@ body {
   position: absolute;
   width: 80px;
   top: -3px;
-  left: 20%;
+  left: 0%;
   /* transform: scale(0.1); */
 }
 
@@ -293,7 +293,7 @@ body {
   }
 
   .nine p {
-    font-size: 1rem;
+    font-size: 0.rem;
     font-weight: lighter;
   }
 }
